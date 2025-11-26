@@ -1,0 +1,10 @@
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\bin\Debug\code-add-order-sl.exe.config
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\bin\Debug\code-add-order-sl.exe
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\bin\Debug\code-add-order-sl.pdb
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\obj\Debug\code-get-patch-sl.csproj.AssemblyReference.cache
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\obj\Debug\code-get-patch-sl.csproj.CoreCompileInputs.cache
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\obj\Debug\code-get.78434E4A.Up2Date
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\obj\Debug\code-add-order-sl.exe
+C:\Users\IT Manager\Downloads\code-get-patch-sl-main\code-get-patch-sl\obj\Debug\code-add-order-sl.pdb
