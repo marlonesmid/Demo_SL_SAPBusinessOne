@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IT Manager\\OneDrive\\Documentos varios old\\code-queries-sl-main\\code-queries-sl-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45527E9-7E2C-4F3E-AC7C-327DEEC6E9D5}|code-queries-sl\\code-queries-sl.csproj|c:\\users\\it manager\\onedrive\\documentos varios old\\code-queries-sl-main\\code-queries-sl-main\\code-queries-sl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45527E9-7E2C-4F3E-AC7C-327DEEC6E9D5}|code-queries-sl\\code-queries-sl.csproj|solutionrelative:code-queries-sl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IT Manager\\OneDrive\\Documentos varios old\\code-queries-sl-main\\code-queries-sl-main\\code-queries-sl\\Program.cs",
+              "RelativeDocumentMoniker": "code-queries-sl\\Program.cs",
+              "ToolTip": "C:\\Users\\IT Manager\\OneDrive\\Documentos varios old\\code-queries-sl-main\\code-queries-sl-main\\code-queries-sl\\Program.cs",
+              "RelativeToolTip": "code-queries-sl\\Program.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAIwMcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:51:52.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
